@@ -6,10 +6,9 @@
 # https://github.com/sarangbhagwat/sff/blob/main/LICENSE
 # for license details.
 
+from .export import export_biosteam_flowsheet_sff
 
 #%% Example 1: sugarcane-to-ethanol
-
-from .export_codes import export_biosteam_flowsheet_sff
 
 from biorefineries import sugarcane as sc
 sc.load()
@@ -17,5 +16,5 @@ sys = sc.create_sugarcane_to_ethanol_system()
 sys.simulate()
 sys.diagram('cluster')
 
-export_biosteam_flowsheet_sff(sys, "sc_ethanol_flowsheet.json")
+export_biosteam_flowsheet_sff(sys, "sugarcane_succinic.json")
 

@@ -5,7 +5,8 @@
         "source_doi": "https://doi.org/10.1021/acssuschemeng.2c04204",
         "product_name": "ethanol",
         "organism": "Saccharomyces cerevisiae",
-        "process_title": "Production of ethanol from sugarcane by fermentation of sugars.",
+        "process_title": "Production of ethanol from sugarcane by fermentation of sugars; from Cortes-Pena et al. 2022.",
+        "flowsheet_designers": "Yoel R. Cortes-Pena"
       },
       
     "units": [

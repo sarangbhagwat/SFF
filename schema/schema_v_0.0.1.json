@@ -36,6 +36,10 @@
         "process_title": {
           "type": "string",
           "description": "A descriptive title for the process."
+        },
+        "flowsheet_designers": {
+          "type": "string",
+          "description": "Name(s) of the authors who designed this flowsheet."
         }
       },
       "required": [
