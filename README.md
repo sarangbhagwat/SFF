@@ -2,7 +2,7 @@ Standardized Flowsheet Format (SFF): A standardized format to export process flo
 
 
 
-!\[Simplified visual representation of the SFF schema](https://github.com/sarangbhagwat/SFF/blob/main/images/SFF_visual_representation.png)
+![Simplified visual representation of the SFF schema](https://github.com/sarangbhagwat/SFF/blob/main/images/SFF_visual_representation.png)
 
 
 
